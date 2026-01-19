@@ -21,6 +21,3 @@ Bu proje, Windows üzerinde çalışan **Squid Proxy** sunucusunu kolayca yönet
 
 ## 📁 Dosya Yapısı
 Uygulama, Squid'in varsayılan yapılandırma dosyalarını (`squid.conf`, `blocked.acl`) otomatik olarak düzenleyecek şekilde ayarlanmıştır. İlk çalıştırmada mevcut ayarlarınızın yedeğini (`.bak`) oluşturur.
-
-## 📄 Lisans
-Bu proje [MIT](LICENSE) lisansı ile korunmaktadır.
